@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Med Ball 9kg",
+    "description": "Rogue Med Ball 9kg",
+    "price": 90,
+    "count": 120,
+    "img": "https://www.roguefitness.com/media/catalog/product/cache/1/image/1500x1500/472321edac810f9b2465a359d8cdc0b5/r/o/rogue-black-med-ball-web6_1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Med Ball 9kg",
+    "description": "YouSteel Med Ball 9kg",
+    "price": 72,
+    "count": 100,
+    "img": "https://yousteel.ru/upload/iblock/18c/yousteel_2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Slam Ball 30kg",
+    "description": "YouSteel Slam Ball 30kg",
+    "price": 115,
+    "count": 50,
+    "img": "https://yousteel.ru/upload/resize_cache/iblock/fad/1300_800_1/Yousteel_equipment_YKhamutova_20200225_4643.jpg"
+  },
+  {
+    "id": "4",
+    "title": "AirBike",
+    "description": "YouSteel AirBike",
+    "price": 905,
+    "count": 20,
+    "img": "https://yousteel.ru/upload/resize_cache/iblock/3e6/1300_800_1/yousteel_yousteel_airbike.jpg"
+  },
+  {
+    "id": "5",
+    "title": "RowErg",
+    "description": "Concept 2 RowErg",
+    "price": 1050,
+    "count": 20,
+    "img": "https://yousteel.ru/upload/iblock/ed6/yousteel_concept_2_.jpg"
+  },
+  {
+    "id": "6",
+    "title": "SkiErg",
+    "description": "Concept 2 SkiErg",
+    "price": 830,
+    "count": 20,
+    "img": "https://yousteel.ru/upload/resize_cache/iblock/f5e/1300_800_1/yousteel_lyzhnyy_trenazher_skierg_pm5.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Flat Box",
+    "description": "YouSteel Flat Box",
+    "price": 94,
+    "count": 200,
+    "img": "https://yousteel.ru/upload/iblock/c99/yousteel_tumba_derevyannaya_50_60_70.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Flat Box",
+    "description": "Rogue Flat Box",
+    "price": 125,
+    "count": 180,
+    "img": "https://www.roguefitness.com/media/catalog/product/cache/1/rogue_header_2015/1536x/472321edac810f9b2465a359d8cdc0b5/x/x/xx2697-lg_1_1.jpg"
+  }
+]
